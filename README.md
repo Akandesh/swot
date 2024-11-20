@@ -3,9 +3,13 @@
 
 JetBrains uses this **swot** repository to grant free licenses for JetBrains tools to students and teachers worldwide. If your email is in one of the domains listed in this repository, you may request your free license from JetBrains. Visit http://jetbrains.com/student to request!
 
-There is `lib/domains` directory which contains a hierarchically structured list of email domains belonging to various educational institutions. The domains are mostly owned by colleges and universities, and also by groups of schools united together because they are sharing the same email domain between several institutions, such as Township High School District 211 of Cook County, Illinois.
+`lib/domains` directory contains a hierarchically structured list of email domains belonging to educational institutions. The domains are mostly owned by colleges and universities, and also by groups of schools united together because they are sharing the same email domain between several institutions, such as Township High School District 211 of Cook County, Illinois.
 
 If you know a school, college or university which is not on this list, feel free to submit a pull request to add it.
+
+**Please notice that some email domains were abused in the past, and we don't trust them now**. The list of such domains is in the file https://github.com/JetBrains/swot/blob/master/lib/domains/abused.txt. If you are a student with email address in an abused domain, please request your free license with GitHub or ISIC authentication at **GitHub** or **ISIC** tabs at https://www.jetbrains.com/shop/eform/students. Teachers can request their licenses with their official documents, too (**Official Document** tab at https://www.jetbrains.com/shop/eform/students.
+
+If you believe that a domain is in the list of abused ones by mistake, please email us at community-support@jetbrains.com.
 
 ## Which educational institutions can be added to the repository?
 
